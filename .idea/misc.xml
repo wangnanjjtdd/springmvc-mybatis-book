@@ -22,11 +22,4 @@
   <component name="SuppressionsComponent">
     <option name="suppComments" value="[]" />
   </component>
-  <component name="ZooKeeperConfig">
-    <option name="host" value="" />
-    <option name="port" value="2181" />
-    <option name="charset" value="UTF-8" />
-    <option name="whitePaths" value="" />
-    <option name="enabled" value="true" />
-  </component>
 </project>
