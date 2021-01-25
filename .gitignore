@@ -1,1 +1,7 @@
-.idea/*
+/*
+!/doc
+!/src
+!/.gitignore
+!/pom.xml
+!/README.md
+!/test
